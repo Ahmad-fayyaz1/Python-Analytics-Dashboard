@@ -1,10 +1,10 @@
 streamlit
-numpy
 pandas
+numpy
+matplotlib
+seaborn
 plotly
 scipy
 joblib
 scikit-learn
 statsmodels
-openpyxl
-matplotlib
